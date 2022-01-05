@@ -1,0 +1,40 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0%;
+  
+}
+.flesible-container{
+  display: flex;
+  padding-bottom: 150px;
+}
+.h1{
+  font-size: 50px;
+}
+.hirf-width{
+  width: 50%;
+  padding-left: 5%;
+}
+.name{
+  color: orange;
+}
+.link-button{
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient( orange,tomato);
+  padding: 10px 40px;
+  font-weight: 400;
+  border-radius: 5px;
+}
+.hirf-width img{
+width: 80%;
+}
+.toop-banner{
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+}
+.dream-big{
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  
+}
